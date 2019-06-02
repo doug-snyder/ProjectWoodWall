@@ -2,14 +2,18 @@
 
 public class Main : MonoBehaviour
 {
-    void Start()
-    {
-        
-    }
+	void Start()
+	{
+		/*
+		 
+		 */
+	}
 
-    void Update()
-    {
-        
-    }
+	void Update()
+	{
+		/*
+		  
+		 */
+	}
 
 }
