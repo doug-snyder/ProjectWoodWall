@@ -17,4 +17,5 @@ public class ButtonClicked : MonoBehaviour
 	{
 		Debug.Log("This won't run as the direct result of a button click!");
 	}
+
 }
