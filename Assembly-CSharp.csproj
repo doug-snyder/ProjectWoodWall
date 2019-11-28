@@ -64,6 +64,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\ButtonClicked.cs" />
+    <Compile Include="Assets\Scripts\List.cs" />
+    <Compile Include="Assets\Scripts\ListItem.cs" />
     <Compile Include="Assets\Scripts\Main.cs" />
     <Compile Include="Assets\Scripts\SpinButton.cs" />
     <Reference Include="Unity.Timeline.Editor">
